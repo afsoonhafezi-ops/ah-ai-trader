@@ -1,0 +1,14 @@
+
+{
+  "name": "ah-ai-trader",
+  "version": "1.0.0",
+  "description": "AH AI TRADER V1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.77.0"
+  }
+}
